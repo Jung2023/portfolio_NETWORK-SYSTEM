@@ -9,6 +9,4 @@
 ###
 🖥 [시스템](https://github.com/Jung2023/portfolio_NETWORK-SYSTEM/blob/main/system.md)
 
-
-![Image](https://github.com/user-attachments/assets/8fd405bb-8c68-4e3f-9006-28bf3a4fff70)
-
+![20250304-s-n](https://github.com/user-attachments/assets/0a803d46-3452-487a-a5c2-954b4bb640cc)
