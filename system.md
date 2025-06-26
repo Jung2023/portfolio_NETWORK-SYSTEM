@@ -1,7 +1,7 @@
 ### 📌 프로젝트 개요
 시스템 보안 환경을 실제로 구축하고 설정
 
-![Image](https://github.com/user-attachments/assets/40e0fb89-21d5-4199-968f-e753ce807451)
+![20250304-s-n](https://github.com/user-attachments/assets/c7b6a168-2632-4120-8a84-f42ef8320301)
 ---
 
 ### 🖥 시스템 분야
