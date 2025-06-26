@@ -1,7 +1,7 @@
 ### 📌 프로젝트 개요
 네트워크 보안 환경을 실제로 구축하고 설정
 
-![Image](https://github.com/user-attachments/assets/8fd405bb-8c68-4e3f-9006-28bf3a4fff70)
+![20250304-s-n](https://github.com/user-attachments/assets/a0362fc0-4090-420c-b7a5-e6d57a7f686c)
 ---
 
 ### 🌐 네트워크 분야
