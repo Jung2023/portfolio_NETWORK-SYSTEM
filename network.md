@@ -8,16 +8,22 @@
 
 - **VLAN 구성**: 
   - VLAN 10 (Server), VLAN 20 (Network), VLAN 30 (Security)로 세분화
+    
 - **pfSense 방화벽 정책 구성**
+  
 - **Router ACL 정책 설정**:
   - 특정 장비간 SSH/Ping 허용 및 차단 정책 수립
+    
 - **ASAv 방화벽 규칙 설정**:
   - DVWA 접속 허용 (https/telnet)
   - 특정 장비만 ping 가능, SSH 접근 가능하도록 설정
+    
 - **Remote VPN 구성**
   - 외부 접근을 위한 VPN 터널 설정
+
 - **Zabbix**
   - 시스템, 네트워크 모니터링
+
 - **Snort Rule 적용**
   - 공격 탐지
 
