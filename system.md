@@ -9,11 +9,9 @@
 - **FTP 서버 구성 및 접근 통제**
   - Firewalld Rule 포함 (FTP 접근 차단 및 HTTP 허용)
 
-
 - **Web / DB / LogAnalyzer 구축**
   - 웹 서버 + DB 서버 + 로그 수집기(LogAnalyzer) 세팅
   - DB 서버 내 DB 및 테이블 생성
-
 
 - **DNS 서버 구성**
   - 도메인 설정
